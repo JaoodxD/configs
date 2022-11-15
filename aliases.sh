@@ -5,7 +5,7 @@
 # Default path to Git-bash config folder C:\Program Files\Git\etc\profile.d
 # --show-control-chars: help showing Korean or accented characters
 alias ls='ls -F --color=auto --show-control-chars'
-alias ll='ls -l'
+alias ll='ls -lh'
 # node with native syntax (with v8 internal %functions)
 alias nodev8='node --allow-natives-syntax'
 alias nodev8trace='node --allow-natives-syntax --trace-elements-transitions'
