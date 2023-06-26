@@ -16,6 +16,7 @@ alias gc='git commit'
 alias gp='git push'
 alias gpp='git pull'
 alias exp='explorer .'
+alias c='code .'
 
 case "$TERM" in
 xterm*)
