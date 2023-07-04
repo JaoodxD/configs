@@ -17,6 +17,7 @@ alias gp='git push'
 alias gpp='git pull'
 alias exp='explorer .'
 alias c='code .'
+alias tmain="echo -e \"'use strict'; \n\n\" > main.js"
 
 case "$TERM" in
 xterm*)
