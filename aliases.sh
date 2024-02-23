@@ -6,6 +6,7 @@
 # --show-control-chars: help showing Korean or accented characters
 alias ls='ls -F --color=auto --show-control-chars'
 alias ll='ls -lh'
+alias lsg='ls | grep'
 # node with native syntax (with v8 internal %functions)
 alias nodev8='node --allow-natives-syntax'
 alias nodev8trace='node --allow-natives-syntax --trace-elements-transitions'
