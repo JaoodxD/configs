@@ -1,6 +1,8 @@
 # Some good standards, which are not used if the user
 # creates his/her own .bashrc/.bash_profile
 
+# aliases for jsvu runtimes
+export PATH=$PATH:/c/Users/jaood/.jsvu/bin
 
 # Default path to Git-bash config folder C:\Program Files\Git\etc\profile.d
 # --show-control-chars: help showing Korean or accented characters
